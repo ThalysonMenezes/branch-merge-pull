@@ -6,3 +6,7 @@ primeira atualização
 mudando na branch stage-1
 
 mudei de novo branch stage-1
+
+mais uma alteração na branch stage-1
+
+alteração na branch stage-2
