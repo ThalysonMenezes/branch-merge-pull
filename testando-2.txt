@@ -1,1 +1,4 @@
 testando segundo commit no segundo clone
+
+
+alterando na branch stage-2
